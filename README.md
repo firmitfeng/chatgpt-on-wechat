@@ -27,9 +27,9 @@ https://user-images.githubusercontent.com/26161723/233777277-e3b9928e-b88f-43e2-
 
 Demo made by [Visionn](https://www.wangpc.cc/)
 
-# 体验
+# 交流群
 
-了解项目更新和体验最新功能:
+添加小助手微信进群：
 
 <img width="240" src="./docs/images/contact.jpg">
 
